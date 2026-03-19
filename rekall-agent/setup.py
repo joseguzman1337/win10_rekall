@@ -48,7 +48,7 @@ install_requires = [
     "requests==2.32.4",
     "httplib2==0.19.0",
     "oauth2client==3.0.0",
-    "filelock==3.20.1",
+    "filelock==3.20.3",
     "pathlib==1.0.1",
     "portpicker==1.1.1"
 ]
