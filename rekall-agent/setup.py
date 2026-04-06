@@ -45,10 +45,10 @@ install_requires = [
     "rekall-lib >= 1.7.0rc1, < 1.8",
     "sseclient==0.0.18",
     "rekall-core >= 1.7.0rc1, < 1.8",
-    "requests==2.32.4",
+    "requests==2.33.0",
     "httplib2==0.19.0",
     "oauth2client==3.0.0",
-    "filelock==3.20.1",
+    "filelock==3.20.3",
     "pathlib==1.0.1",
     "portpicker==1.1.1"
 ]
